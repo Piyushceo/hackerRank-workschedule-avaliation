@@ -1,5 +1,17 @@
 <h1 align="center">Vanhack / HackerRank Work Schedule Avaliation</h1>
 
+## Howto
+
+To run this code just save in your apache public folder and access it through your preferred browser. 
+
+## Technologies used in this project
+
+- [PHP](http://php.net)
+
+## Disclaimer
+
+This code is just for informational objectives: show how I solved the problem. 
+
 ## About
 
 Vanhack (hiring company) redirect all applicants challenges through HackerRank in order to verify their coding skills. One of these challenges is the following one:
@@ -94,15 +106,3 @@ Vanhack (hiring company) redirect all applicants challenges through HackerRank i
 >```
 >
 >You only need to schedule **1** more hour for the week, and it can be on any one of the days in question.
-
-## Howto
-
-To run this code just save in your apache public folder and access it through your preferred browser. 
-
-## Technologies used in this project
-
-- [PHP](http://php.net)
-
-## Disclaimer
-
-This code is just for informational objectives to show how I solved the problem. 
